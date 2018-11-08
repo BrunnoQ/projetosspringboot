@@ -1,0 +1,4 @@
+br/com/darius/projeto/model/Convidado.class
+br/com/darius/projeto/controller/ConvidadoController.class
+br/com/darius/projeto/ConfiguracaoProjeto.class
+br/com/darius/projeto/repository/ConvidadoRepository.class
