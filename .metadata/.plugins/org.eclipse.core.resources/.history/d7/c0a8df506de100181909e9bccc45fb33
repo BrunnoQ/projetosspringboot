@@ -1,0 +1,11 @@
+package br.com.darius.repository;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import br.com.darius.br.com.darius.model.Convidado;
+
+@Repository
+public interface ConvidadoRepository extends CrudRepository<Convidado, Long> {
+
+}
