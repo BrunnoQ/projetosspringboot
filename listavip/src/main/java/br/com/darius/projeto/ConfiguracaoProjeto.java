@@ -3,6 +3,10 @@ package br.com.darius.projeto;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+/**
+ * caminho desta merda
+ */
 @SpringBootApplication
 public class ConfiguracaoProjeto {
 	
